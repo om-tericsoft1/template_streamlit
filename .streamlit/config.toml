@@ -1,0 +1,10 @@
+[browser]
+gatherUsageStats = false
+
+[server]
+enableStaticServing = true
+enableXsrfProtection = false
+enableCORS = false
+
+[ui]
+hideTopBar = true
